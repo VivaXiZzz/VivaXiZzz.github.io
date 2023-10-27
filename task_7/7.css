@@ -15,8 +15,10 @@ body {
 }
 .slick-slide img {
     border: 5px solid #808080;
-    width: 25vw;
-    height: 25vw;
+    width:30vm;
+    height: 30vw;
+    width:80%;
+    margin:0 auto;
   }
 .slick-slide img.slick-loading {
     border: 0;
