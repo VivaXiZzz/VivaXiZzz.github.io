@@ -17,10 +17,6 @@ body {
     border: 5px solid #808080;
     width: 25vw;
     height: 25vw;
-    margin: 0 auto;
-    width:85%;
-    margin:0 auto;
-    margin-top:70px;
   }
 .slick-slide img.slick-loading {
     border: 0;
@@ -35,13 +31,8 @@ body {
 
 .slick-dots
 {
-    margin: 0 5px;
+    margin: 0 10px;
     color: #ce723c;
-}
-
-h1
-{
-    text-align:center;
 }
 
 h1
